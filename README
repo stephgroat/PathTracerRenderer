@@ -1,0 +1,20 @@
+README
+
+Stephen Groat
+seg2181
+
+I have implemented all three renderers, and an extra scene. 
+I cannot implement a second creative scene and be able to render in each renderer and still turn in the assignment on time.
+
+For the Sphere calculations I based it off of the code and article found here:
+https://www.scratchapixel.com/lessons/3d-basic-rendering/minimal-ray-tracer-rendering-simple-shapes/ray-sphere-intersection
+
+Most everything else is based off of the Scene class and other miscellaneous classes/objects within the project.
+The pictures are in the base folder.
+
+My development environment in case there are issues running the code:
+Windows 10 Pro
+i9 9900k
+GTX 1070
+IntelliJ running Java 8
+Apache ant
